@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DjSelorm
-- 👀 I’m interested in ML/programming
-- 🌱 I’m currently learning python, material engineering
+- 👀 I’m interested in material engineering, ML/programming
+- 🌱 I’m currently learning material engineering & ML
 - 💞️ I’m looking to collaborate on ML for materials ...
 - 📫 How to reach me: ...
 
